@@ -19,3 +19,4 @@ if (parolaUtente == parolaAlContrario(parolaUtente)) {
     alert('la parola non è Palindroma')
 
 }
+
